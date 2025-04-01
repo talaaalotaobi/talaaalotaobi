@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @talaaalotaobi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 مرحبا، أنا @talaaalotaobi
+- 👀 أنا مهتم في...
+- 🌱 أنا أتعلم حاليا...
+- 💞️ أتطلع إلى التعاون في ...
+- 📫 كيفية الوصول لي...
 
 <!---
-talaaalotaobi/talaaalotaobi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+talaaalotaobi/talaaalotaobi هو مستودع ✨ خاص ✨ لأن "README.md" (هذا الملف) يظهر على ملفك الشخصي على GitHub.
+يمكنك النقر فوق رابط المعاينة لإلقاء نظرة على التغييرات الخاصة بك.
 --->
